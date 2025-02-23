@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tarekzoka/main/MultiIptvAdder/installer.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tarekzoka/MultiIptvAdder/main/installer.sh -O - | /bin/sh
 ##
 ###########################################
 ###########################################
