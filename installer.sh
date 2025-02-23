@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/MultiIptvAdder/installer.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tarekzoka/main/MultiIptvAdder/installer.sh -O - | /bin/sh
 ##
 ###########################################
 ###########################################
@@ -8,7 +8,7 @@
 # My config script #
 MY_TAR_PY2="MultiIptvAdder_py2.tar.gz"
 MY_TAR_PY3="MultiIptvAdder_py3.tar.gz"
-MY_URL="https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/MultiIptvAdder"
+MY_URL="https://raw.githubusercontent.com/tarekzoka/main/MultiIptvAdder"
 PYTHON_VERSION=$(python -c 'import sys; print(sys.version_info[0])')
 
 ######################################################################################
@@ -46,7 +46,7 @@ if [ $? -eq 0 ]; then
 fi
 
 echo "********************************************************************************"
-echo "   UPLOADED BY  >>>>   EMIL_NABIL " 
+echo "   UPLOADED BY  >>>>   TAREK-HANFY " 
 sleep 4                        
 echo "$MY_EM"
 echo "**********************************************************************************"
