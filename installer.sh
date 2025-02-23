@@ -8,7 +8,7 @@
 # My config script #
 MY_TAR_PY2="MultiIptvAdder_py2.tar.gz"
 MY_TAR_PY3="MultiIptvAdder_py3.tar.gz"
-MY_URL="https://raw.githubusercontent.com/tarekzoka/main/MultiIptvAdder"
+MY_URL="https://raw.githubusercontent.com/tarekzoka/MultiIptvAdder/main"
 PYTHON_VERSION=$(python -c 'import sys; print(sys.version_info[0])')
 
 ######################################################################################
